@@ -2,6 +2,7 @@
   "name": "fishing-weather-dashboard",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "dependencies": {
     "date-fns": "^2.30.0",
     "lucide-react": "^0.294.0",
